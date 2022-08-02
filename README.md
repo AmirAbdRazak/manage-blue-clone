@@ -3,7 +3,7 @@
 ---
 
 The original tutorial: https://youtu.be/dFgzHOX84xQ <br />
-Live Demo: https://manage-clone-blue-version-cq46pri66-amirabdrazak.vercel.app 
+Live Demo: https://manage-clone-blue-version.vercel.app 
 
 This website was made to practice my Tailwind and React Skills (Albeit there could be more refactoring and file formatting needed to make stuff cleaner).
 Used Next.js because it's just a static website, might learn Astro with Svelte because that technically would be better in this case... 
